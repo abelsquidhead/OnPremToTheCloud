@@ -1,7 +1,7 @@
 ﻿
 namespace MercuryHealth.BatchUploader
 {
-    partial class Service1
+    partial class MercuryHealthBatchUploaderService
     {
         /// <summary> 
         /// Required designer variable.

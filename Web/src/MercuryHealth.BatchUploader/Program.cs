@@ -17,7 +17,7 @@ namespace MercuryHealth.BatchUploader
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new MercuryHealthBatchUploaderService()
             };
             ServiceBase.Run(ServicesToRun);
         }

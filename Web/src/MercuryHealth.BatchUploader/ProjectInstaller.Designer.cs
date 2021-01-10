@@ -41,7 +41,7 @@ namespace MercuryHealth.BatchUploader
             // serviceInstaller1
             // 
             this.serviceInstaller1.Description = "Mercury Health Batch Health Info Uploader";
-            this.serviceInstaller1.DisplayName = "MyFirstService.Demo";
+            this.serviceInstaller1.DisplayName = "MercuryHealth.BatchUploader";
             this.serviceInstaller1.ServiceName = "Service1";
             // 
             // ProjectInstaller
